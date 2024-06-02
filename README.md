@@ -1,2 +1,6 @@
 # Data-mining-of-cars-dataset
-Data pre-processing and Feature extraction
+
+- Exploratory Data Analysis
+- Handling of missing data, detecting correlations and anomalies.
+- Feature extraction and dimensionality reduction through PCA.
+
